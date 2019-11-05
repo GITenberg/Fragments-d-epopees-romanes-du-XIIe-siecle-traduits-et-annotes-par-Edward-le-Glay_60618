@@ -1,10 +1,13 @@
 _repo: Fragments-d-epopees-romanes-du-XIIe-siecle-traduits-et-annotes-par-Edward-le-Glay_60618
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Glay, Édouard André Joseph le
     gutenberg_agent_id: '51057'
     url: http://www.gutenberg.org/2009/agents/51057
+covers:
+- cover_type: archival
+  image_path: 60618-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Glay, Edouard André Joseph
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '46353'
     url: http://www.gutenberg.org/2009/agents/46353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60618#Fragments-d-epopees-romanes-du-XIIe-siecle-traduits-et-annotes-par-Edward-le-Glay
 gutenberg_issued: '2019-11-03'
 gutenberg_type: Text
 identifiers:
